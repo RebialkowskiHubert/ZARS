@@ -1,0 +1,33 @@
+.formularz{
+    margin-left: 4%;
+    width: 90%;
+}
+
+.lrej{
+    margin-left: 4%;
+    color: black;
+}
+
+#okedyt{
+    margin-top: 2%;
+}
+
+p{
+    margin-left: 4%;
+}
+
+#blhasloo>p{
+    margin-left: 21%;
+}
+
+.error{
+    margin-top: 0px;
+    margin-left: 5%;
+}
+
+.grecaptcha-badge{
+    position: relative !important;
+    margin-top: 2% !important;
+    margin-bottom: 2% !important;
+    left: 30% !important;
+}
